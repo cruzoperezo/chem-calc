@@ -72,6 +72,8 @@ int main()
 	cout << "Moles of "<< reactants2 << ": ";
 	cin >> molesR2;	
 
+	cout << endl;
+
 // determine limniting RXN
 	float limitRXN;
 	float limitCOEF;
